@@ -1,0 +1,17 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "My restaurant project",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jstransformer-nunjucks": "^0.5.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-layouts": "^2.2.0",
+    "metalsmith-markdown": "^1.0.1"
+  }
+}
